@@ -29,8 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Ignite Shop 2.0 é uma aplicação web para compras de múltiplos produtos originais da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/ignite-shop/)
-
 - [Assistir aulas](https://app.rocketseat.com.br/classroom/projeto-04)
 
 ## 🔖 Layout
